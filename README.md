@@ -2,4 +2,4 @@
 Learning notes of 3D reconstruction methods.
 
 ## Learning-based 3D reconstruction methods: 
-1. Occupancy Networks: https://github.com/tryhiseyyysum/Learning-3D-reconstruction/blob/cc527f95dea0a6650999c9ab63fd36397cbd40a3/Occupancy%20Networks.md
+1. Occupancy Networks: https://xiaolixing.notion.site/Occupancy-Networks-e262a1112c034b05b080c7e0feb7aea9
